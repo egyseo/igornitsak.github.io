@@ -1,10 +1,24 @@
-## Welcome to GitHub Pages
+# SEO Guide - Useful Resources
 
-You can use the [editor on GitHub](https://github.com/igornitsak/nanoseo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Niche Analysis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Seed Keywords
+- Top Competitors Analysis
 
-### Markdown
+## Keyword Research
+
+- Main Keywords Lookup
+- Longtail Keywords Mining
+- Keyword Groups
+- Building Site Structure
+
+## Content Development
+
+- Technical assignment for Writers
+- 
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
